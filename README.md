@@ -22,7 +22,7 @@
 ### 👨‍💻 Sobre Mim
 
 <p>
-  Sou um desenvolvedor apaixonado por tecnologia e resolução de problemas. Com uma base sólida em <strong>ADVPL</strong> e no ecossistema <strong>TOTVS Protheus</strong>, tenho construído soluções robustas para o mundo corporativo.
+  Sou um desenvolvedor apaixonado por tecnologia e resolução de problemas. Com uma base em <strong>ADVPL</strong> e no ecossistema <strong>TOTVS Protheus</strong>, tenho construído soluções para o mundo corporativo.
 </p>
 <p>
   Atualmente, estou expandindo minhas fronteiras e mergulhando no desenvolvimento Web moderno. Tenho conhecimento prático na criação de interfaces dinâmicas com <strong>HTML, CSS, JavaScript</strong> e <strong>React</strong>, e na construção de APIs e serviços com <strong>Node.js</strong>.
